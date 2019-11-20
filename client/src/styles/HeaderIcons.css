@@ -1,0 +1,45 @@
+.fa-facebook {
+  font-size: 25px;
+  color: white;
+  background-color: blue;
+  padding: 5px;
+  display: flex;
+  width: 30px;
+  margin-right: 10px;
+}
+
+.fa-twitter {
+  font-size: 25px;
+  color: white;
+  background-color: lightblue;
+  padding: 5px;
+  display: flex;
+  width: 30px;
+  margin-right: 10px;
+}
+
+.fa-feed {
+  font-size: 25px;
+  color: white;
+  background-color: orange;
+  padding: 5px;
+  display: flex;
+  width: 30px;
+  margin-right: 10px;
+}
+
+.fa-youtube {
+  font-size: 25px;
+  color: white;
+  background-color: red;
+  padding: 5px;
+  display: flex;
+  width: 30px;
+  margin-right: 10px;
+}
+
+.icons {
+  display: flex;
+  align-items: center;
+  height: 40px;
+}

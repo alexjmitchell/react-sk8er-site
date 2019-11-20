@@ -1,0 +1,15 @@
+.nav {
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: space-evenly;
+  list-style: none;
+}
+
+.nav li {
+  background-color: #B3282F;
+  padding: 10px;
+  color: white;
+  text-transform: uppercase;
+}
+
